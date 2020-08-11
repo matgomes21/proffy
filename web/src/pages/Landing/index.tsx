@@ -31,7 +31,7 @@ function Landing() {
                     </a>
 
                     <a href="" className="give-classes">
-                        <img src={giveCLassesIcon} alt="Estudar"/>
+                        <img src={giveCLassesIcon} alt="Dar aulas"/>
                         Dar aulas
                     </a>
                 </div>
